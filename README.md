@@ -2,4 +2,4 @@
 Sign Language Translator using TensorFlow,OpenCV &amp; NLP.
 
 **IDEA:**
-The idea is to build an Android application that can convert sign language into text as well as speech and translate it into user’s preferred language.
+The idea is to build an application that can convert sign language into text.The input alphabets are feeded through WebCam and are processed to form text.
